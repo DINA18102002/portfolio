@@ -1,8 +1,2 @@
-![background](https://github.com/user-attachments/assets/cf0c7044-5a64-4128-9764-fdaf16c84cb2)
-![work-2](https://github.com/user-attachments/assets/dff9b8bb-3561-4266-b416-e343e8bb7344)
-![work-1](https://github.com/user-attachments/assets/50055428-64ed-4b4c-8906-66bc626169af)
-![user](https://github.com/user-attachments/assets/3ff0756a-443e-44cf-b55b-d43a9c3bc47c)
-![phone-background](https://github.com/user-attachments/assets/add718c2-01b7-4bab-bb87-ddfa7364bf8e)
-[my-cv.pdf](https://github.com/user-attachments/files/16416330/my-cv.pdf)
-![logo](https://github.com/user-attachments/assets/97dc8744-35f7-4e61-83cd-6f23c7a5d63a)
-![work-3](https://github.com/user-attachments/assets/6f2a8a46-ffbd-430f-84c2-ab998203dee2)
+portfolio website
+
